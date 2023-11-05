@@ -1,1 +1,2 @@
 This is my text file for branch-a branch
+I am making a second change to the branch-a file
