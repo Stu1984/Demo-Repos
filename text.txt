@@ -1,1 +1,2 @@
 This is my text file for branch-a branch
+Adding different text to the file in master branch
